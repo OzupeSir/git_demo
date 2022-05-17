@@ -50,3 +50,4 @@ hello zhangjinpei! hello git!
 hello zhangjinpei! hello git! master test
 hello zhangjinpei! hello git! hot-fix test
 11111111111111111111111111111111
+git add by 2
